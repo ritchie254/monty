@@ -40,6 +40,7 @@ typedef struct instruction_s
  * @ln: number of the line that is being processed
  * @command: command entered in array[0]
  * @op: opcode from the instructions structure
+ * @status: status
  * @fp: poniter to object in stream
  * @stack: pointer to stack
  *
